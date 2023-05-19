@@ -1,11 +1,15 @@
 # check_paloalto_portstatus.pl
 A Nagios plugin based on Perl and SNMPv3 to check the status of a Palo Alto Networks interface on a device.
 
+| @18th May 2023 | Version |
+|---------------:|----------|
+| Tested on      |  PA-440 |
+| PAN-OS         |  11.0.1 |
+| Nagios Core    |  4.4.11 |
+
 <sub>Unsure who the author is. Credits to the unknown author.</sub>
 
-[![GitHub release](https://img.shields.io/github/release/FoUStep/check_paloalto_portstatus.pl
-.svg)](https://GitHub.com/FoUStep/check_paloalto_portstatus.pl
-/releases/)
+[![GitHub release](https://img.shields.io/github/release/FoUStep/check_paloalto_portstatus.pl.svg)](https://GitHub.com/FoUStep/check_paloalto_portstatus.pl/releases/)
 
 <sub>Due to security reasons this is SNMPv3 only.</sub>
 ```
